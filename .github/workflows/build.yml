@@ -28,6 +28,8 @@ env:
   NEXT_PUBLIC_POSTHOG_HOST: "test"
   BETTERSTACK_API_KEY: "test"
   BETTERSTACK_URL: "test"
+  KNOCK_API_KEY: "test"
+  KNOCK_FEED_CHANNEL_ID: "test"
 
 # what the action will do
 jobs:
